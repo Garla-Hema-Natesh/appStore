@@ -1,0 +1,10 @@
+.button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.active {
+  color: #2563eb;
+  border-bottom: solid 1px #2563eb;
+}
